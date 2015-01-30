@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App Contactos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_agregar_c">Agregar Contacto</string>
+    <string name="nombrec">Nombre del Contacto:</string>
+    <string name="nomch">Nombre del Contacto</string>
+    <string name="telefono">Telefono/Cel:</string>
+    <string name="telefonoh">Telefono/Cel</string>
+    <string name="title_activity_eliminar_c">Eliminar Contactos</string>
+    <string name="elimc">Nombre del Contacto:</string>
+    <string name="elimch">Nombre del Contacto</string>
+
+</resources>

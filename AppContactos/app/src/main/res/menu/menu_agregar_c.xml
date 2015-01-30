@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.clasejava.appcontactos.AgregarC">
+    <item android:id="@+id/contactos" android:title="Ver Contactos"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/elim" android:title="Eliminar Contactos"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
